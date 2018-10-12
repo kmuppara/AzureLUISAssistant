@@ -64,5 +64,15 @@
                         "yeah",
                         "yes please"
                     ]
+                },
+                 {
+                    "name": "None",
+                    "samples": [
+                        "nope",
+                        "no",
+                        "nothing",
+                        "none",
+                        "exit"
+                    ]
                 }
             ]
