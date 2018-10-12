@@ -1,0 +1,68 @@
+"intents": [ 
+                {
+                    "name": "Greeting",
+                    "samples": [
+                        "hello",
+                        "hi",
+                        "good morning",
+                        "good noon",
+                        "good evening"
+                    ]
+                },
+                {
+                    "name": "ItemLocator",
+                    "samples": [
+                        "where can i get toys?",
+                        "help me in finding the location of toys",
+                        "get the location of toys",
+                        "please find the location toys",
+                        "show me the location of toys"
+                     ]
+                },
+                {
+                    "name": "OfferFinder",
+                    "samples": [
+                        "what are the offers on grocery?",
+                        "could you please provide me the offers on grocery",
+                        "get the today's offers on grocery",
+                        "show me the offers on grocery",
+                        "what are the offers available on grocery?"
+                    ]
+                },
+                {
+                    "name": "ProductDetails",
+                    "samples": [
+                        "provide me the details of prestige cooker",
+                        "what are the features of prestige cooker",
+                        "kindly get me the details of prestige cooker",
+                        "give me the features of prestige cooker"
+                    ]
+                },
+                {
+                    "name": "Recommendations",
+                    "samples": [
+                        "kindly recommend a soap to buy",
+                        "please provide suggestions on soaps",
+                        "could you suggest some soaps to buy?",
+                        "what is the recommended soap to buy?"
+                    ]
+                },
+                {
+                    "name": "TrendingItems",
+                    "samples": [
+                        "what are the today's trending items?",
+                        "what are the today's most purchased products?",
+                        "what are the most demand products?",
+                        "kindly provide today's trending items"
+                    ]
+                },
+                {
+                    "name": "Yes",
+                    "samples": [
+                        "yes",
+                        "yeap",
+                        "yeah",
+                        "yes please"
+                    ]
+                }
+            ]
